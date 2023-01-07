@@ -1,0 +1,265 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+   
+    display: flex;
+    justify-content: space-between;
+    background-image: url("images/banner1.png " );
+
+}
+
+
+.div2 h1{
+    margin-left: 800px;
+    margin-right: 150px;
+    margin-top: 240px;
+    font-size: 55px;
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+
+
+}
+
+.div2 p{
+    margin: 40px 140px 20px 780px;
+    text-align: right;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.div2 button{
+    margin: 30px 0px 170px 1000px;
+    padding: 14px 25px 14px 25px;
+    font-size: 22px;
+    background-color: gold;
+    color:green;
+    border-radius: 9px;
+   
+}
+
+
+.section1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section1-img{
+   margin: 100px 60px 100px 130px;
+  
+}
+
+
+.section1-para h2{
+    margin: 350px 350px 20px 0px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section1-para p{
+    margin: 30px 250px 20px 0px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
+.section1-para ol{
+    margin: 20px 0px 20px 10px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ 
+
+.section2 h3{
+   text-align: center;
+   margin: 20px 0px 70px 0px;
+   font-size: 37px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.section2-container{
+
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 180px 20px 180px;
+
+}
+
+.section2-div1{
+    text-align: center;
+}
+
+.section2-div1 h3{
+    text-align: center;
+    font-size: 26px;
+}
+
+.section2-div1 p{
+    text-align: center;
+    font-size: 21px;
+    margin-top: -50px;
+}
+
+
+
+
+
+.section2-div2{
+    text-align: center;
+}
+
+.section2-div2 h3{
+    text-align: center;
+    font-size: 27px;
+}
+
+.section2-div2 p{
+    text-align: center;
+    font-size: 21px;
+    margin-top: -50px;
+}
+
+
+
+.section2-div3{
+    text-align: center;
+}
+
+.section2-div3 h3{
+    text-align: center;
+    font-size: 26px;
+}
+
+.section2-div3 p{
+    text-align: center;
+    font-size: 21px;
+    margin-top: -50px;
+}
+
+
+
+.section2-div4{
+    text-align: center;
+}
+
+.section2-div4 h3{
+    text-align: center;
+    font-size: 27px;
+}
+
+.section2-div4 p{
+    text-align: center;
+    font-size: 21px;
+    margin-top: -50px;
+}
+
+
+.section3{
+    border-radius: 6px;
+    margin: 200px 200px 80px 220px;
+    background-image:  url("images/watch.png");
+    padding: 50px 40px 50px 40px;
+    background-repeat: no-repeat;
+    background-position:  bottom -50px;
+   
+}
+
+.section3-div h4{
+    margin-left: 60px;
+    font-size: 35px;
+    color: rgb(93, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: -0px;
+
+}
+
+
+.section3-div button{
+    margin-top: 40px;
+    margin-left: 70px;
+    padding: 15px 27px 15px 27px;
+    font-size: 19px;
+    color: chocolate;
+    border-radius: 7px;
+
+}
+
+
+footer{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+
+.footer-div1{
+    margin: 120px 90px 10px 160px;
+}
+
+.footer-div1 h5{
+    color: aqua;
+    font-size: 41px;
+}
+
+.footer-div1 p{
+    color: aqua;
+    font-size: 17px;
+    margin: 22px 320px 22px 0px;
+}
+
+.footer-div1 a{
+    margin: 5px 5px 20px 0px;
+    color: aqua;
+    
+}
+
+.img-container{
+    margin: 34px 0px 0px 0px;
+    margin-left: -10px;
+}
+
+.img1{
+    padding: 12px;
+}
+
+.img2{
+    padding: 12px;
+}
+
+.img3{
+    padding: 12px;
+}
+
+
+.footer-div2{
+    margin-top: 140px;
+    margin-right: 260px;
+    
+}
+
+
+h6{
+
+    color: aqua;font-size: 24px;
+   
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+input{
+    margin-top: 17px;
+    padding: 18px 39px;
+    background-color: rgb(243, 236, 236);
+    color: rgb(245, 249, 253);
+    font-style: italic;
+   border-radius: 8px;
+}
+
+.footer-div2 button{
+    margin-top: 24px;
+    padding: 19px 39px;
+    font-size: 15px;
+    border-radius: 7px;
+    color: green;
+}
